@@ -18,6 +18,7 @@
 		7F089C9E1725222900B20C07 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7F089C9D1725222900B20C07 /* Default-568h@2x.png */; };
 		7F089CA11725222A00B20C07 /* CalculatriceViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F089CA01725222A00B20C07 /* CalculatriceViewController.m */; };
 		7F089CA41725222A00B20C07 /* CalculatriceViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7F089CA21725222A00B20C07 /* CalculatriceViewController.xib */; };
+		7F089CAC172525B300B20C07 /* Calculateur.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F089CAB172525B300B20C07 /* Calculateur.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,8 @@
 		7F089C9F1725222900B20C07 /* CalculatriceViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CalculatriceViewController.h; sourceTree = "<group>"; };
 		7F089CA01725222A00B20C07 /* CalculatriceViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CalculatriceViewController.m; sourceTree = "<group>"; };
 		7F089CA31725222A00B20C07 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/CalculatriceViewController.xib; sourceTree = "<group>"; };
+		7F089CAA172525B300B20C07 /* Calculateur.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Calculateur.h; sourceTree = "<group>"; };
+		7F089CAB172525B300B20C07 /* Calculateur.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Calculateur.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +91,8 @@
 				7F089C9F1725222900B20C07 /* CalculatriceViewController.h */,
 				7F089CA01725222A00B20C07 /* CalculatriceViewController.m */,
 				7F089CA21725222A00B20C07 /* CalculatriceViewController.xib */,
+				7F089CAA172525B300B20C07 /* Calculateur.h */,
+				7F089CAB172525B300B20C07 /* Calculateur.m */,
 				7F089C8E1725222900B20C07 /* Supporting Files */,
 			);
 			path = Calculatrice;
@@ -177,6 +182,7 @@
 				7F089C941725222900B20C07 /* main.m in Sources */,
 				7F089C981725222900B20C07 /* CalculatriceAppDelegate.m in Sources */,
 				7F089CA11725222A00B20C07 /* CalculatriceViewController.m in Sources */,
+				7F089CAC172525B300B20C07 /* Calculateur.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
